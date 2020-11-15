@@ -17,7 +17,7 @@ State-gov, Without-pay, Never-worked) <Br/>
 * Marital status (Married-civ-spouse, Divorced, Never-married, Separated, Widowed,
 Married-spouse-absent, Married-AF-spouse) <Br/>
 * Employment area (Tech-support, Craft-repair, Other-service, Sales, Exec-managerial,
-Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-shing,
+Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing,
 Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces) <Br/>
 * Partnership (Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried) <Br/>
 * Ethnicity (White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black) <Br/>
